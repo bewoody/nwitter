@@ -6,8 +6,8 @@
 
 input {
   all: unset;
-  box-sizing: border-box;
   appearance: none;
+  box-sizing: border-box;
 }
 
 body {
@@ -49,6 +49,7 @@ form {
   padding: 10px 20px;
   border-radius: 20px;
   border: 1px solid black;
+  box-sizing: border-box;
   text-align: center;
   background-color: white;
   color: black;
@@ -63,6 +64,7 @@ form {
   border-radius: 20px;
   background-color: #04aaff;
   cursor: pointer;
+  box-sizing: border-box;
 }
 
 .cancelBtn {
